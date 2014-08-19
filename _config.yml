@@ -1,0 +1,21 @@
+# Dependencies
+markdown:           kramdown
+highlighter:        true
+
+# Permalinks
+permalink:          /:title
+
+# Site settings
+title:              Dawg Pulse
+tagline:          	
+email:              dawgpulse@idlefusion.com
+url:                http://dawgpulse.com
+paginate:           10
+baseurl:            
+author:
+  name:             Dawg Pulse
+  url:              https://twitter.com/dawgpulse
+  email:            dawgpulse@idlefusion.com
+  twitter: 		      DawgPulse
+
+# Custom vars
