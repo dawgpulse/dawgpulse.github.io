@@ -9,7 +9,7 @@ There is a lot of news floating around Georgia Sports these days.  From Twitter 
 
 This site features links to all of its post and content in the title.  If you want to following a link, simply click on the title to be taken to the site.  If you see a red star next to the title then that is a way for you to link back to this site if you so choose.
 
-Follow us on Twitter:
+**Follow us on Twitter:**
 
 <a href="https://twitter.com/DawgPulse" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @DawgPulse</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
