@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Georgia to hostsix 5-star recruits for Clemson game
+title: Georgia to host six 5-star recruits for Clemson game
 published: true
 custom-link: http://bulldawgillustrated.com/2014/08/20/dawg-snacks-early-look-huge-visitor-list-clemson-game/
 date: 2014-08-20
