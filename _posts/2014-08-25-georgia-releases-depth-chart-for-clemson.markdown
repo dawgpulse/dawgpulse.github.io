@@ -19,7 +19,7 @@ author:
 
 * Swann, Bowman are you starters at corner.
 
-![Offense](/assets/UGA-Depth-Chart-Offense-2014)
+![Offense](/assets/UGA-Depth-Chart-Offense-2014.jpg)
 
 * Everything here looks as expected.
 
